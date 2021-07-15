@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gregor Gračnar
+- 👀 I’m interested in programming in general
+- 🌱 I’m currently learning procedural world generation
+- 📫 You can reeach me via gregor.gracnar@gmail.com
